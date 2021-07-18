@@ -87,8 +87,11 @@ function runIt() {
   getAverageValue(goodValues);
 
   function getAverageElement (arr) {
+    for(let elem of arr) {
+
+    }
     if(arr.length % 2 == 0){
-      
+
     }
   }
 }
