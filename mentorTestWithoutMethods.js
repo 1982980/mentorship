@@ -87,9 +87,7 @@ function runIt() {
   getAverageValue(goodValues);
 
   function getAverageElement (arr) {
-    if(arr.length % 2 == 0){
-      
-    }
+    if(arr.length % 2 == 0){}
   }
 }
 runIt();
